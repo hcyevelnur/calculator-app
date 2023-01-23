@@ -72,7 +72,7 @@ button:hover {
     border-color: #c02ec0;
     color: #fff;
     height: 100%;
-    grid-area: 2/4/6/5;
+    grid-area: 2/4/7/5;
 }
 
 .equal-sign:hover {
@@ -84,4 +84,9 @@ button:hover {
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;
     padding: 20px
+}
+
+
+.operator2{
+    grid-area: 2/1/3/4;
 }
